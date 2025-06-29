@@ -1,0 +1,21 @@
+2025/06/29-22:18:04.340 6084 Reusing MANIFEST C:\Users\Asus\OneDrive\Desktop\cartMngment\ecommerce-automation\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/29-22:18:04.344 6084 Recovering log #27
+2025/06/29-22:18:04.345 6084 Level-0 table #30: started
+2025/06/29-22:18:04.354 6084 Level-0 table #30: 71025 bytes OK
+2025/06/29-22:18:04.355 6084 Recovering log #29
+2025/06/29-22:18:04.355 6084 Level-0 table #31: started
+2025/06/29-22:18:04.364 6084 Level-0 table #31: 24161 bytes OK
+2025/06/29-22:18:04.374 6084 Delete type=0 #27
+2025/06/29-22:18:04.374 6084 Delete type=0 #29
+2025/06/29-22:20:12.015 1dd0 Level-0 table #34: started
+2025/06/29-22:20:12.022 1dd0 Level-0 table #34: 85328 bytes OK
+2025/06/29-22:20:12.024 1dd0 Delete type=0 #32
+2025/06/29-22:20:12.025 1dd0 Compacting 4@0 + 1@1 files
+2025/06/29-22:20:12.032 1dd0 Generated table #35@0: 266 keys, 94430 bytes
+2025/06/29-22:20:12.032 1dd0 Compacted 4@0 + 1@1 files => 94430 bytes
+2025/06/29-22:20:12.033 1dd0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/29-22:20:12.034 1dd0 Delete type=2 #26
+2025/06/29-22:20:12.034 1dd0 Delete type=2 #28
+2025/06/29-22:20:12.034 1dd0 Delete type=2 #30
+2025/06/29-22:20:12.034 1dd0 Delete type=2 #31
+2025/06/29-22:20:12.034 1dd0 Delete type=2 #34

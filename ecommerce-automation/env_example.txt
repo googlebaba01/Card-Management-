@@ -1,0 +1,18 @@
+# Amazon Credentials
+AMAZON_EMAIL=your_email@example.com
+AMAZON_PASSWORD=your_password
+AMAZON_PHONE=+91XXXXXXXXXX
+
+# Flipkart Credentials (optional)
+FLIPKART_EMAIL=your_flipkart_email@example.com
+FLIPKART_PASSWORD=your_flipkart_password
+
+# User Details for Checkout
+USER_NAME=Your Full Name
+USER_PHONE=+91XXXXXXXXXX
+USER_ADDRESS=Your Complete Address
+USER_CITY=Your City
+USER_PINCODE=123456
+
+# Optional: OpenAI API Key for AI-powered captcha solving
+OPENAI_API_KEY=your_openai_api_key_here 
